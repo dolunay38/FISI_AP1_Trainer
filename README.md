@@ -173,3 +173,6 @@ Diese Inhalte werden hier **nicht** veröffentlicht: Ein Teil der Original-Prüf
 ## Lizenz
 
 MIT License – siehe [LICENSE](./LICENSE). Kurz gesagt: jeder darf den Code frei nutzen, verändern, weiterverbreiten, auch kommerziell – solange der Original-Copyright-Hinweis erhalten bleibt.
+
+<img width="996" height="929" alt="image" src="https://github.com/user-attachments/assets/067bf3d2-ceb1-4458-baf3-42a43d35895c" />
+
